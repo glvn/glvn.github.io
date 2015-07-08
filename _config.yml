@@ -1,6 +1,6 @@
 name: galvin
 url: http://example.org
-description: the ramblings of a young technology blogger
+description: the ramblings of a young programmer
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
