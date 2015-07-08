@@ -1,6 +1,6 @@
-name: Solar Theme
+name: galvin
 url: http://example.org
-description: A stylish blog using the Solarized color palette
+description: the ramblings of a young technology blogger
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
