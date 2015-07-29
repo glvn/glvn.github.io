@@ -1,6 +1,6 @@
 name: patrick galvin
 url: http://galvin.pw
-description: the ramblings of a young programmer
+description: my blog tech thingy
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
