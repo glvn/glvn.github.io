@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Buying Bitcoins in the UK - if you're under 18"
-date:   2015-07-29 22:11:00
+date:   2020-07-29 22:11:00
 categories: bitcoin
 ---
 
